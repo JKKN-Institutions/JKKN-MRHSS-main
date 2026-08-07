@@ -28,7 +28,7 @@ const Footer = () => {
     { name: "JKKN Dental College and Hospital", href: "https://dental.jkkn.ac.in/" },
     { name: "JKKN College of Allied Health Science", href: "https://ahs.jkkn.ac.in/" },
     { name: "JKKN College of Pharmacy", href: "https://pharmacy.jkkn.ac.in/" },
-    { name: "Sresakthimayeil Institute of Nursing and Research", href: "https://nursing.jkkn.ac.in/" },
+    { name: "Sresakthimayeil Institute of Nursing and Research", href: "https://nursing.sresakthimayeil.jkkn.ac.in/" },
     { name: "JKKN College of Education", href: "https://edu.jkkn.ac.in/" },
     { name: "JKKN College of Arts and Science (Autonomous)", href: "https://cas.jkkn.ac.in/" },
     { name: "JKKN College of Engineering and Technology", href: "https://engg.jkkn.ac.in/" },
